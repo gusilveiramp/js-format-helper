@@ -47,7 +47,7 @@ export const formatNumber = value => {
     return value
       .replace(/\D/g, '') // remove qualquer caractere que nao seja numero
       .replace(/(\d{1})(\d)/, '$1.$2') // adiciona o ponto depois do primeiro caractere
-      .replace(/(\d{5})(\d)/, '$1.$2') // adiciona o ponto depois do quinto caractere
+      .replace(/(\d{3})(\d)/, '$1.$2') // adiciona o ponto depois do quinto caractere
   }
   return value;
 }
