@@ -1,0 +1,34 @@
+{
+  "name": "js-format-helper",
+  "version": "1.0.0",
+  "description": "A simple format helper for your JavaScript projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gusilveiramp/js-format-helper.git"
+  },
+  "keywords": [
+    "js",
+    "javascript",
+    "format",
+    "helper",
+    "input",
+    "mask",
+    "react",
+    "native",
+    "react",
+    "react.js",
+    "reactjs",
+    "nodejs",
+    "node.js"
+  ],
+  "author": "Gustavo Silveira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gusilveiramp/js-format-helper/issues"
+  },
+  "homepage": "https://github.com/gusilveiramp/js-format-helper#readme"
+}
